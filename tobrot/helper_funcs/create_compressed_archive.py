@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) Shrimadhav U K | gautamajay52
+# (c) Thor-Ragnarok | Shinchan
 
 import asyncio
 import logging
@@ -46,7 +46,7 @@ async def create_archive(input_directory):
     return return_name
 
 
-# @gautamajay52
+# @ML_BotUpdates
 
 
 async def unzip_me(input_directory):
