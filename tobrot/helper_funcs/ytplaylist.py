@@ -1,4 +1,4 @@
-# (c) gautamajay52
+# (c) Thor-Ragnarok
 #
 
 
