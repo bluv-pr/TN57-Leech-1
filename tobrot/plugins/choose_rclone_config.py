@@ -1,7 +1,7 @@
 # This is code to switch which rclone config section to use. This setting affects the entire bot(And at this time, the cloneHelper only support gdrive, so you should only choose to use gdrive config section)
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) xiaoqi-beta | gautamajay52
+# (c) Thor-Ragnarok | ML BotUpdates
 
 import configparser  # buildin package
 import logging
