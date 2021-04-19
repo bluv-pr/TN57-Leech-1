@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) Akshay C / Shrimadhav U K / YK
+# (c) Thor-Ragnarok / ML BotUpdates / Shinchan
 
 import asyncio
 import logging
