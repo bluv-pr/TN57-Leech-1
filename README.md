@@ -1,3 +1,3 @@
 #### ML Leech Bot😎
 
-[![Deploy](https://heroku.com/deploy?template=https://github.com/Thor-Ragnarok/ML-Leecher)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Thor-Ragnarok/ML-Leecher)
