@@ -1,10 +1,10 @@
 {
-  "name": "ML Torrent Leecher",
-  "description": "A Telegram Torrent (and youtube-dl) Leecher based on Pyrogram. Powered by @ML_BotUpdates",
+  "name": "TN57 Torrent Leecher",
+  "description": "A Telegram Torrent (and youtube-dl) Leecher based on Pyrogram. Powered by @TN57_BotZ",
   "keywords": [
     "telegram"
   ],
-  "repository": "https://github.com/Thor-Ragnarok/ML-Leecher",
+  "repository": "https://github.com/Thor-Ragnarok/TN57-Leech",
   "success_url": "https://github.com/Thor-Ragnarok",
   "website": "https://github.com/Thor-Ragnarok",
   "env": {
