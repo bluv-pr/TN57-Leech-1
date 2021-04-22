@@ -1,4 +1,4 @@
-### ML Leech Bot😎
+### TN57 Leech Bot😎
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Thor-Ragnarok/Tn57-Leech)
